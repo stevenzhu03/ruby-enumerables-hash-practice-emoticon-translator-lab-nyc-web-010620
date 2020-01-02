@@ -9,7 +9,7 @@ def load_library(file_path)
   }
   
   emoticon.each do |key, value|
-    result["get_meaning"][value[0]]
+    result["get_meaning"][value[1]] = 
   
   
 end
